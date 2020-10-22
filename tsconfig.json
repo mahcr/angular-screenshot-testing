@@ -15,6 +15,14 @@
     "lib": [
       "es2018",
       "dom"
+    ],
+    "types": [
+      "node",
+      "jasmine",
+      "cypress"
+    ],
+    "typeRoots": [
+      "node_modules/@types"
     ]
   }
 }
